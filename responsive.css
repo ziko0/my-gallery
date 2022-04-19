@@ -1,0 +1,21 @@
+@media (min-width: 968px){
+
+    .gallery{
+        grid-gap: 0px ;
+        align-items: center;
+        height: 100%;
+    }
+
+    .img-1 { grid-area: img-1; width: 109px; height: 109px;}
+  
+    .img-2 { grid-area: img-2; width: 229px; height: 109px;}
+    
+    .img-3 { grid-area: img-3; width: 229px; height: 109px;}
+    
+    .img-4 { grid-area: img-4; width: 108px; height: 230px;}
+    
+    .img-5 { grid-area: img-5; width: 109px; height: 109px;}
+    
+    .img-6 { grid-area: img-6; width: 109px; height: 109px; }
+
+}
