@@ -1,4 +1,4 @@
-@media (min-width: 968px){
+@media (max-width: 968px){
 
     .gallery{
         grid-gap: 0px ;
